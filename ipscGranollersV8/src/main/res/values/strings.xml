@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ipsc Granollers</string>
+    <string name="acbar_clubs">Clubs</string>
+    <string name="acbar_about">A cerca de</string>
+    <string name="acbar_volver">Volver</string>
+    <string name="clubs_dialog_close">ok</string>
+    <string name="nombre">Nombre</string>
+    <string name="fechaHora">Fecha y Hora</string>
+    <string name="club">nombre club</string>
+    <string name="ruta">Ruta</string>
+</resources>
